@@ -41,7 +41,7 @@
     </div>
 </template>
 
-<script>
+<script type="text/ecmascript-6">
 import headTop from '../../components/header/head'
 import {cityGuess, hotcity, groupcity} from '../../service/getData'
 
